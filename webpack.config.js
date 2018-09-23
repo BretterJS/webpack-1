@@ -1,3 +1,5 @@
+// Basic Webpack 4 Config
+
 const path = require("path");
 
 module.exports = {
